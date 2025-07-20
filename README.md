@@ -2,6 +2,9 @@ SpendWise is a modern web-based expense tracking application built using the MER
 
 🔧 Tech Stack:
 MongoDB – NoSQL database for storing transaction and user data.
+
 Express.js – Backend framework for creating robust API endpoints.
+
 React.js – Interactive frontend for smooth user experiences.
+
 Node.js – Server environment for handling requests and logic.
