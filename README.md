@@ -11,4 +11,5 @@ React.js – Interactive frontend for smooth user experiences.
 Node.js – Server environment for handling requests and logic.
 
 🎯 Objective:
+
 SpendWise aims to help users build better financial habits by offering an easy and effective way to track where their money goes.
